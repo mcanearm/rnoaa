@@ -10,3 +10,4 @@ Encoding: UTF-8
 LazyData: true
 Depends: data.table
 Suggests: parallel
+RoxygenNote: 6.1.1
